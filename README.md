@@ -1,11 +1,32 @@
-# 💫 About Me:
-I am Tappa Vishwendra, a Computer Science graduate and an aspiring Data Analyst.
+# Hi 👋, I'm Tappa Vishwendra  
 
-I am passionate about working with data, analyzing information, and solving real-world problems using data-driven approaches.
+🚀 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning  
 
-I have knowledge of Python, SQL, Power BI, and Machine Learning, and I am continuously improving my skills.
+---
 
-I am looking for opportunities where I can learn, grow, and contribute to meaningful projects.
+## 🚀 About Me  
+
+🔭 I’m currently working on  
+👉 Data Analysis Projects & Machine Learning Models  
+
+🤝 I’m looking to collaborate on  
+👉 Data Analytics & Open Source Projects  
+  
+🌱 I’m currently learning  
+👉 Data Science, Power BI & Machine learning  
+
+💬 Ask me about  
+👉 Python, SQL, Data Analysis, Machine Learning  
+
+⚡ Fun fact  
+👉 I love turning data into meaningful insights 😄  
+
+---
+
+## 🌐 Connect with Me  
+
+👉 LinkedIn: https://www.linkedin.com/in/vishwendra-tappa-253093330/  
+👉 Email: tappavishwendra@gmail.com  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishwendra-tappa-   253093330.  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tappavishwendra@gmail.com) 
