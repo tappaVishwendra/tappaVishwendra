@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tappa Vishwendra  
 
-🚀 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning  
+🚀 **Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning  **
 
 ---
 
